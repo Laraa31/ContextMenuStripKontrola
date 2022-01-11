@@ -1,0 +1,10 @@
+C:\Users\ucenik\source\repos\ContextMenuStripKontrola\bin\Debug\ContextMenuStripKontrola.exe.config
+C:\Users\ucenik\source\repos\ContextMenuStripKontrola\bin\Debug\ContextMenuStripKontrola.exe
+C:\Users\ucenik\source\repos\ContextMenuStripKontrola\bin\Debug\ContextMenuStripKontrola.pdb
+C:\Users\ucenik\source\repos\ContextMenuStripKontrola\obj\Debug\ContextMenuStripKontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\ContextMenuStripKontrola\obj\Debug\ContextMenuStripKontrola.Form1.resources
+C:\Users\ucenik\source\repos\ContextMenuStripKontrola\obj\Debug\ContextMenuStripKontrola.Properties.Resources.resources
+C:\Users\ucenik\source\repos\ContextMenuStripKontrola\obj\Debug\ContextMenuStripKontrola.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\ContextMenuStripKontrola\obj\Debug\ContextMenuStripKontrola.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\ContextMenuStripKontrola\obj\Debug\ContextMenuStripKontrola.exe
+C:\Users\ucenik\source\repos\ContextMenuStripKontrola\obj\Debug\ContextMenuStripKontrola.pdb
